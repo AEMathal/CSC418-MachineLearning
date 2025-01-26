@@ -1,4 +1,4 @@
-# CSC417: Machine Learning Course Repository  
+# CSC418: Machine Learning Course Repository  
 
 Welcome to the **CSC418: Machine Learning Course Repository**! This repository contains all the lab notebooks for the **Machine Learning** course.  
 
